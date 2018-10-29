@@ -1,5 +1,5 @@
 # Exo_OCR_DEMO_GIT
-Exercise GIT (OPCR).1 
+Exercise GIT (OCR).1 
 
 Modification du Git, afin de pouvoir continuer l'exercice
 
